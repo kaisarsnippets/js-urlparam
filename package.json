@@ -1,6 +1,6 @@
 {
   "name": "kc-urlparam",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "[browser] Get/Set URL parameter.",
   "main": "urlparam.js",
   "repository": {
