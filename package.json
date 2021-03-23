@@ -5,7 +5,7 @@
   "main": "urlparam.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-urlparam.git"
+    "url": "https://github.com/kaisarsnippets/js-urlparam.git"
   },
   "keywords": [
     "url",
@@ -16,7 +16,7 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-urlparam/issues"
+    "url": "https://github.com/kaisarsnippets/js-urlparam/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-urlparam"
+  "homepage": "https://github.com/kaisarsnippets/js-urlparam"
 }
